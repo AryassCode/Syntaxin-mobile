@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.udinn.syntaxin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Syntaxin">
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Onboard"
+            android:exported="false" />
+        <activity
+            android:name=".Detail_beasiswa"
+            android:exported="false" />
+        <activity
+            android:name=".Beasiswa_page"
+            android:exported="false" />
+        <activity
+            android:name=".Detail_magang"
+            android:exported="false" />
+        <activity
+            android:name=".Magang_page"
+            android:exported="false" />
+        <activity
+            android:name=".Biodata5"
+            android:exported="false" />
+        <activity
+            android:name=".Biodata4"
+            android:exported="false" />
+        <activity
+            android:name=".Biodata3"
+            android:exported="false" />
+        <activity
+            android:name=".Biodata2"
+            android:exported="false" />
+        <activity
+            android:name=".Biodata"
+            android:exported="false" />
+        <activity
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".Detail_loker"
+            android:exported="false" />
+        <activity
+            android:name=".Loker_page"
+            android:exported="false" />
+        <activity
+            android:name=".Homepage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/bg_btn_facebook.xml" value="0.1078125" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/bg_btn_login.xml" value="0.1078125" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/bg_edit_text_black_border.xml" value="0.1078125" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/bg_edit_text_yellow_border.xml" value="0.21302083333333333" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/bg_google_btn.xml" value="0.1078125" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/ic_baseline_keyboard_arrow_right_24.xml" value="0.21302083333333333" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1078125" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable-v24/splashbg.xml" value="0.21302083333333333" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1078125" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_about.xml" value="0.15" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_biodata.xml" value="0.12364130434782608" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_biodata2.xml" value="0.12364130434782608" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_biodata3.xml" value="0.12364130434782608" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_biodata4.xml" value="0.1" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_biodata5.xml" value="0.1" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_homepage.xml" value="0.1" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_login2.xml" value="0.18" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_main.xml" value="0.12364130434782608" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_onboard.xml" value="0.18" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/layout/activity_onboard2.xml" value="0.12364130434782608" />
+        <entry key="..\:/Andro project/Syntaxin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1078125" />
+        <entry key="..\:/Syntaxin/app/src/main/res/drawable-v24/rounded.xml" value="0.1975" />
+        <entry key="..\:/Syntaxin/app/src/main/res/layout/activity_about.xml" value="0.28442028985507245" />
+        <entry key="..\:/Syntaxin/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
